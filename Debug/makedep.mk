@@ -6,3 +6,5 @@ main.c
 
 src\drivers\led.c
 
+src\drivers\usart.c
+

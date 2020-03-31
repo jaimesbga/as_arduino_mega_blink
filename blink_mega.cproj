@@ -131,10 +131,16 @@
     <Compile Include="inc\drivers\led.h">
       <SubType>compile</SubType>
     </Compile>
+    <Compile Include="inc\drivers\usart.h">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="main.c">
       <SubType>compile</SubType>
     </Compile>
     <Compile Include="src\drivers\led.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="src\drivers\usart.c">
       <SubType>compile</SubType>
     </Compile>
   </ItemGroup>
