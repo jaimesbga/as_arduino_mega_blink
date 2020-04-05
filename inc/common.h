@@ -12,10 +12,15 @@
 #include <stdint.h>
 
 #define F_CPU 16000000UL
+
+#define USE_ST7735_TFT18	0
+
 /************************************************************************/
 /* Drivers                                                              */
 /************************************************************************/
 #include "led.h"
 #include "usart.h"
+#include "st7735.h"
+#include "timer.h"
 
 #endif /* COMMON_H_ */

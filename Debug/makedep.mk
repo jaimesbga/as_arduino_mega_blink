@@ -6,5 +6,9 @@ main.c
 
 src\drivers\led.c
 
+src\drivers\st7735.c
+
+src\drivers\timer.c
+
 src\drivers\usart.c
 
